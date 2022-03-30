@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![]![Alt Text] https://github.com/farhan0120/codepath-site-prework/blob/main/Screen-Recording-2022-03-30-at-3.26.46-PM.gif
+![]![gif of project working](https://github.com/farhan0120/codepath-site-prework/blob/main/Screen-Recording-2022-03-30-at-3.26.46-PM.gif)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
